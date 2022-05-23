@@ -13,7 +13,7 @@ function App() {
         <RoversContextProvider>
           <ImagesContextProvider>
             <Routes>
-              <Route exact path="/" element={<Home />} />
+              <Route exact path="/nasa-api" element={<Home />} />
               <Route exact path="/:id/" element={<Collections />} />
             </Routes>
           </ImagesContextProvider>
