@@ -10,7 +10,11 @@ const Header = () => {
 
   return (
     <div className="header">
-      <img className={"logo"} src={logo} onClick={() => navigate("/")} />
+      <img
+        className={"logo"}
+        src={logo}
+        onClick={() => navigate("/nasa-api")}
+      />
     </div>
   );
 };
