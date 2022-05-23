@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.462716c3.css",
-    "main.js": "/static/js/main.ead7468f.js",
-    "static/js/787.37980ae4.chunk.js": "/static/js/787.37980ae4.chunk.js",
-    "static/media/nasa.png": "/static/media/nasa.d78c8070b65e58e877e4.png",
-    "static/media/oportunity.jpg": "/static/media/oportunity.5a1ad1fab16ae2003160.jpg",
-    "static/media/curiosity.jpg": "/static/media/curiosity.3b01ebf3dd97d5203846.jpg",
-    "static/media/pers.jpg": "/static/media/pers.8e4ee2b909aee87c9438.jpg",
-    "static/media/spirit.jpg": "/static/media/spirit.837d57358e29aba55b03.jpg",
-    "index.html": "/index.html",
-    "main.462716c3.css.map": "/static/css/main.462716c3.css.map",
-    "main.ead7468f.js.map": "/static/js/main.ead7468f.js.map",
-    "787.37980ae4.chunk.js.map": "/static/js/787.37980ae4.chunk.js.map"
+    "main.css": "/nasa-api/static/css/main.03bc7b72.css",
+    "main.js": "/nasa-api/static/js/main.d799990a.js",
+    "static/js/787.37980ae4.chunk.js": "/nasa-api/static/js/787.37980ae4.chunk.js",
+    "static/media/nasa.png": "/nasa-api/static/media/nasa.d78c8070b65e58e877e4.png",
+    "static/media/oportunity.jpg": "/nasa-api/static/media/oportunity.5a1ad1fab16ae2003160.jpg",
+    "static/media/curiosity.jpg": "/nasa-api/static/media/curiosity.3b01ebf3dd97d5203846.jpg",
+    "static/media/pers.jpg": "/nasa-api/static/media/pers.8e4ee2b909aee87c9438.jpg",
+    "static/media/spirit.jpg": "/nasa-api/static/media/spirit.837d57358e29aba55b03.jpg",
+    "index.html": "/nasa-api/index.html",
+    "main.03bc7b72.css.map": "/nasa-api/static/css/main.03bc7b72.css.map",
+    "main.d799990a.js.map": "/nasa-api/static/js/main.d799990a.js.map",
+    "787.37980ae4.chunk.js.map": "/nasa-api/static/js/787.37980ae4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.462716c3.css",
-    "static/js/main.ead7468f.js"
+    "static/css/main.03bc7b72.css",
+    "static/js/main.d799990a.js"
   ]
 }
