@@ -1,0 +1,17 @@
+.pagination {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.--active {
+    background-color: #003d92;
+    color: #fff;
+}
+svg {
+    cursor: pointer;
+}
+.three-dots {
+    align-self: center;
+    margin: 5px;
+    color: #003d92;
+}

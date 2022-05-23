@@ -1,0 +1,44 @@
+.filters {
+    text-align: left;
+}
+.active {
+    background-color: #003d92;
+    color: #fff;
+}
+.cameras {
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+button {
+    background: #fff;
+    color: #003d92;
+    border: 2px solid #003d92;
+    border-radius: 1rem;
+    padding: 4px 12px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 6px;
+}
+.filter-title {
+    text-align: left;
+}
+.reset-btn {
+    display: block;
+    margin: 20px 0;
+}
+.reset-btn:hover {
+    opacity: 80%;
+}
+.reset-btn:active {
+    background-color: #003d92;
+    color: #fff;
+    opacity: 100%;
+}
+input {
+    outline: 2px solid #003d92;
+    border-radius: 4px;
+    padding: 4px;
+    border: none;
+}

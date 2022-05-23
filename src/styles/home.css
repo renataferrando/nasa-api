@@ -1,0 +1,56 @@
+.page {
+    display: flex;
+    justify-content: center;
+}
+.wrapper {
+    max-width: 1200px;
+    text-align: center;
+    padding: 40px;
+}
+.collections {
+    display: flex;  
+}
+.card0, .card1, .card2, .card3 {
+    margin: 0 20px;
+    border: solid 1px #ccc;
+    border-radius: 8px;
+    cursor: pointer;    
+}
+.card0 .header, .card1 .header, .card2 .header, .card3 .header {
+    min-height: 200px;
+    width: 200px;
+    border-radius: 8px 8px 0 0;
+    background-size: cover;
+    background-position: center;
+}
+.card1 .header {
+    background-image: url(../images/curiosity.jpg);
+}
+.card2 .header {
+    background-image: url(../images/oportunity.jpg);
+}
+.card3 .header {
+    background-image: url(../images/pers.jpg);
+}
+.card0 .header {
+    background-image: url(../images/spirit.jpg);
+}
+h1 {
+    margin-bottom: 40px;
+}
+.card-title {
+    margin: 10px;
+}
+p {
+    font-size: 14px;
+}
+@media only screen and (max-width: 1024px) {
+    .collections {
+        flex-direction: column;
+        gap: 20px
+    }
+    .card0 .header, .card1 .header, .card2 .header, .card3 .header {
+        width: unset;
+    }
+
+}
